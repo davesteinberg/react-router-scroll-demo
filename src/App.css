@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.link-demo div {
+  margin: 32px 0;
+}
+
+.link-demo a {
+  color: #61dafb;
+}
+
+.page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 16px;
+}
